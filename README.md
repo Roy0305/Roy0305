@@ -1,16 +1,23 @@
-## Hi there 👋
+## About me 👋
 
-<!--
-**Roy0305/Roy0305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🤖 AI Orchestrator | Agentic Systems Architect
 
-Here are some ideas to get you started:
+I specialize in harmonizing autonomous agents and complex AI workflows to bridge the gap between raw LLM capability and production-grade logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Arsenal
+*   **Frameworks:** LangChain, CrewAI, AutoGen, Haystack
+*   **Back-end:** Python, FastAPI, Node.js
+*   **Data:** Pinecone, Milvus, Weaviate (Vector DBs)
+*   **Focus:** Multi-agent orchestration & advanced RAG pipelines
+
+### 🧠 Research & Interests
+- **Neural Orchestration:** Optimization of cross-model communication.
+- **Agentic UX:** Designing intuitive interfaces for autonomous systems.
+- **AI Ethics:** Implementing safety guardrails within decision loops.
+
+### 📈 Current Mission
+Reducing latency and increasing reliability in complex, self-correcting autonomous workflows.
+
+---
